@@ -1,6 +1,7 @@
 ## Tester/Developer
 ```
 I am Kenneth Goering, I have a long history in test and development. My role was to test the webpage and fix errors. My contibutuion includes making the webpage funtional for users to easily navigate. I was also able to consolidate the Cascading Style Sheet to decrease memory usage and run quicker for the users/customers.
+```
 
 ## My Contibution
 ```
@@ -10,7 +11,7 @@ I am Kenneth Goering, I have a long history in test and development. My role was
 --Added alt tags to the pictures for easy troubleshooting.
 --Changed the color of the company's name section seo (Horiseon) to make it stand out.
 --Consolidated the CSS file to minimize the the size of the file.git
-
+```
 ## User Story
 
 ```
