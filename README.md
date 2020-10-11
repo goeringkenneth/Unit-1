@@ -9,7 +9,7 @@ I am Kenneth Goering, I have a long history in test and development. My role was
 --Fixed the Navigation Buttons to allow users to easily navigate to the section of the page they wish to read/see.
 --Added alt tags to the pictures for easy troubleshooting.
 --Changed the color of the company's name section seo (Horiseon) to make it stand out.
---Consolidated the CSS file to minimize the the size of the file.
+--Consolidated the CSS file to minimize the the size of the file.git
 
 ## User Story
 
@@ -39,4 +39,3 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo]("/images/01-html-css-git-homework-demo.png")
