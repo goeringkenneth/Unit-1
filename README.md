@@ -1,16 +1,15 @@
-## Tester/Devloper
+## Tester/Developer
 ```
-I am Kenneth Goering I have a long history in test and deveoplment. My role was to test the a web page and fix the errors. My contibutuion was to make the webpage a funtional, for users to easly navigate the page. I was also able to consolidate the Cascading Style Sheet so it would use less memory and run quicker for the user/costomer.
+I am Kenneth Goering, I have a long history in test and development. My role was to test the webpage and fix errors. My contibutuion includes making the webpage funtional for users to easily navigate. I was also able to consolidate the Cascading Style Sheet to decrease memory usage and run quicker for the users/customers.
 
 ## My Contibution
---Changed the Web page Title to the company name "Horiseon".
---Reformated the HTML page code to make it easier to read.
---Fixed the Navigation Bauttons so the user can esaly navigate to the section of the page they want would like to read/see.
+```
+--Changed the Webpage Title to the company name "Horiseon".
+--Reformatted the HTML page code to make it easier to read.
+--Fixed the Navigation Buttons to allow users to easily navigate to the section of the page they wish to read/see.
 --Added alt tags to the pictures for easy troubleshooting.
---Changed the color of the componyies name section seo (Horiseon) to make it stand out.
----Consolidated the CSS file to minimize the the size of the file.
-
-
+--Changed the color of the company's name section seo (Horiseon) to make it stand out.
+--Consolidated the CSS file to minimize the the size of the file.
 
 ## User Story
 
