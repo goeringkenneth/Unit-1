@@ -1,6 +1,6 @@
 ## Tester/Developer
 ```
-I am Kenneth Goering, I have a long history in test and development. My role was to test the webpage and fix errors. My contibutuion includes making the webpage funtional for users to easily navigate. I was also able to consolidate the Cascading Style Sheet to decrease memory usage and run quicker for the users/customers.
+>I am Kenneth Goering, I have a long history in test and development. My role was to test the webpage >and fix errors. My contibutuion includes making the webpage funtional for users to easily navigate. I >was also able to consolidate the Cascading Style Sheet to decrease memory usage and run quicker for the >users/customers.
 ```
 
 ## My Contibution
